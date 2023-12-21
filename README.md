@@ -1,5 +1,5 @@
 # PHYSICSLIB-TP
-Bibliothèque en Turbo Pascal permettant des traitements de science physiques.
+Bibliothèque en Turbo Pascal permettant des traitements de science physique.
 
 <h3>Liste des unités</h3>
 
